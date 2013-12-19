@@ -21,4 +21,4 @@ CodeIgniter中文语言包
 
 改成：
 
-    $config['language'] = 'zh-cn';
+    $config['language'] = 'zh-CN'; // 这里大小写要与文件夹一致，否则Linux系统下会找不到报错。
