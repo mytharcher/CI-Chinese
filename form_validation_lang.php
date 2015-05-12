@@ -17,7 +17,7 @@ $lang['is_numeric']         = "%s 只能包含数字。";
 $lang['integer']            = "%s 只能包含整数。";
 $lang['regex_match']        = "%s 格式不正确。";
 $lang['matches']            = "%s 与 %s 不相符合。";
-$lang['is_unique']          = "%s 必须唯一。当前值已存在。";
+$lang['is_unique']          = "%s 已存在。";
 $lang['is_natural']         = "%s 必须是自然数(非负整数)。";
 $lang['is_natural_no_zero'] = "%s 必须是大于零的自然数(非负整数)。";
 //2.1.0
