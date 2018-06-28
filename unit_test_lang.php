@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('不允许直接访问脚本');
 
 $lang['ut_test_name']       = '测试名称';
 $lang['ut_test_datatype']   = '测试数据类型';
