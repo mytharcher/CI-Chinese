@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') OR exit('不允许直接访问脚本');
 
 $lang['upload_userfile_not_set']        = "无法在post中找到名为userfile的变量。";
 $lang['upload_file_exceeds_limit']      = "上传文件超出PHP配置文件中允许的最大长度。";
@@ -15,8 +16,7 @@ $lang['upload_destination_error']       = "在移动上传文件到目标位置�
 $lang['upload_no_filepath']             = "上传路径无效。";
 $lang['upload_no_file_types']           = "您还没有指定允许的文件类型。";
 $lang['upload_bad_filename']            = "服务器上已存在与您上传的文件同名的文件。";
-$lang['upload_not_writable']            = "上传目录不可写入。";
-
+$lang['upload_not_writable']            = "上传目录不可写。";
 
 /* End of file upload_lang.php */
 /* Location: ./system/language/zh-CN/upload_lang.php */

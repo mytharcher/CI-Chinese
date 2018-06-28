@@ -1,19 +1,20 @@
 <?php
+defined('BASEPATH') OR exit('不允许直接访问脚本');
 
-$lang['date_year']      = "年";
-$lang['date_years']     = "年";
-$lang['date_month']     = "月";
-$lang['date_months']    = "月";
-$lang['date_week']      = "周";
-$lang['date_weeks']     = "周";
-$lang['date_day']       = "天";
-$lang['date_days']      = "天";
-$lang['date_hour']      = "小时";
-$lang['date_hours']     = "小时";
-$lang['date_minute']    = "分";
-$lang['date_minutes']   = "分";
-$lang['date_second']    = "秒";
-$lang['date_seconds']   = "秒";
+$lang['date_year']    = "年";
+$lang['date_years']   = "年";
+$lang['date_month']   = "月";
+$lang['date_months']  = "月";
+$lang['date_week']    = "周";
+$lang['date_weeks']   = "周";
+$lang['date_day']     = "天";
+$lang['date_days']    = "天";
+$lang['date_hour']    = "小时";
+$lang['date_hours']   = "小时";
+$lang['date_minute']  = "分";
+$lang['date_minutes'] = "分";
+$lang['date_second']  = "秒";
+$lang['date_seconds'] = "秒";
 
 $lang['UM12']   = '(UTC -12:00) 贝克/豪兰岛';
 $lang['UM11']   = '(UTC -11:00) 萨摩亚时区、纽埃';
